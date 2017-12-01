@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- vim:fdn=3:
+-->
+<openerp>
+    <data>
+        <template id="assets_backend" name="meeting_reminder_assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                 <link rel="stylesheet" href="/meeting_reminder/static/src/css/meeting_reminder.css" />
+                <script type="text/javascript" src="/meeting_reminder/static/src/js/meeting_reminder.js"></script>
+            </xpath>
+        </template>
+    </data>
+</openerp>

@@ -1,0 +1,918 @@
+id,start_datetime,stop_datetime,name,manager_id,event_type,allday
+calendar_event_1,2015-06-02 14:30:00,2015-06-02 15:30:00,Accepted: Bank Operation meeting with Navita,Nityananda Shanbhag,meeting,FALSE
+calendar_event_2,2014-07-17 10:30:00,2014-07-17 11:30:00,Accepted: Concal reg : Documents,K,meeting,FALSE
+calendar_event_3,2015-05-22 11:00:00,2015-05-22 12:00:00,Accepted: CSAT Meeting with Jehan,Mansi Shah,meeting,FALSE
+calendar_event_4,2015-01-06 14:30:00,2015-01-06 15:30:00,Accepted: JD Exercise for Debenture Trustee (DT-Operation),Sapna Chokshi,meeting,FALSE
+calendar_event_5,2014-10-20 16:00:00,2014-10-20 17:00:00,"Accepted: Meeting with Mr. Jignesh Dave, Legal Head from Kotak CRE for VGN Developers ",Jayesh Khaitan,meeting,FALSE
+calendar_event_6,2014-10-15 10:00:00,2014-10-15 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_7,2014-12-05 10:00:00,2014-12-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_8,2015-01-08 10:00:00,2015-01-08 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_9,2015-01-12 10:00:00,2015-01-12 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_10,2015-05-20 10:00:00,2015-05-20 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_11,2015-06-05 10:00:00,2015-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_12,2015-06-05 10:00:00,2015-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_13,2015-06-05 10:00:00,2015-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_14,2015-10-15 10:00:00,2015-10-15 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_15,2015-12-04 10:00:00,2015-12-04 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_16,2016-01-08 10:00:00,2016-01-08 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_17,2016-01-12 10:00:00,2016-01-12 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_18,2016-05-20 10:00:00,2016-05-20 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_19,2016-06-03 10:00:00,2016-06-03 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_20,2016-06-03 10:00:00,2016-06-03 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_21,2016-06-03 10:00:00,2016-06-03 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_22,2016-10-14 10:00:00,2016-10-14 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_23,2017-01-06 10:00:00,2017-01-06 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_24,2017-01-12 10:00:00,2017-01-12 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_25,2017-04-20 10:00:00,2017-04-20 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_26,2017-04-25 10:00:00,2017-04-25 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_27,2017-05-19 10:00:00,2017-05-19 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_28,2017-05-19 10:00:00,2017-05-19 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_29,2017-05-24 10:00:00,2017-05-24 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_30,2017-06-05 10:00:00,2017-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_31,2017-06-05 10:00:00,2017-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_32,2018-01-12 10:00:00,2018-01-12 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_33,2018-05-18 10:00:00,2018-05-18 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_34,2018-06-05 10:00:00,2018-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_35,2019-01-11 10:00:00,2019-01-11 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_36,2019-04-01 10:00:00,2019-04-01 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_37,2019-05-20 10:00:00,2019-05-20 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_38,2019-06-05 10:00:00,2019-06-05 11:00:00,Aditya Birla Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_39,2015-02-04 10:00:00,2015-02-04 11:00:00,Aditya Birla Finance Limited ,Shailesh Kokate,reminder,FALSE
+calendar_event_40,2016-02-04 10:00:00,2016-02-04 11:00:00,Aditya Birla Finance Limited ,Shailesh Kokate,reminder,FALSE
+calendar_event_41,2017-02-03 10:00:00,2017-02-03 11:00:00,Aditya Birla Finance Limited ,Shailesh Kokate,reminder,FALSE
+calendar_event_42,2018-02-02 10:00:00,2018-02-02 11:00:00,Aditya Birla Finance Limited ,Shailesh Kokate,reminder,FALSE
+calendar_event_43,2019-02-04 10:00:00,2019-02-04 11:00:00,Aditya Birla Finance Limited ,Shailesh Kokate,reminder,FALSE
+calendar_event_44,2016-03-01 10:45:00,2016-03-01 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_45,2016-03-01 10:45:00,2016-03-01 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_46,2016-03-07 10:45:00,2016-03-07 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_47,2016-03-07 10:45:00,2016-03-07 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_48,2017-03-01 10:45:00,2017-03-01 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_49,2017-03-06 10:45:00,2017-03-06 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_50,2017-03-06 10:45:00,2017-03-06 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_51,2017-04-03 10:45:00,2017-04-03 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_52,2017-04-10 10:45:00,2017-04-10 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_53,2017-04-24 10:45:00,2017-04-24 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_54,2018-02-01 10:45:00,2018-02-01 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_55,2018-02-19 10:45:00,2018-02-19 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_56,2018-03-01 10:45:00,2018-03-01 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_57,2018-03-05 10:45:00,2018-03-05 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_58,2018-03-21 10:45:00,2018-03-21 11:45:00,Aditya Birla Finance Limited  - NCD of Rs. 2000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_59,2014-11-21 15:15:00,2014-11-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_60,2014-12-19 15:15:00,2014-12-19 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_61,2015-01-21 15:15:00,2015-01-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_62,2015-02-20 15:15:00,2015-02-20 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_63,2015-03-20 15:15:00,2015-03-20 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_64,2015-04-21 15:15:00,2015-04-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_65,2015-05-21 15:15:00,2015-05-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_66,2015-06-19 15:15:00,2015-06-19 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_67,2015-07-21 15:15:00,2015-07-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_68,2015-08-21 15:15:00,2015-08-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_69,2015-09-21 15:15:00,2015-09-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_70,2015-10-21 15:15:00,2015-10-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_71,2015-11-20 15:15:00,2015-11-20 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_72,2015-12-21 15:15:00,2015-12-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_73,2016-01-21 15:15:00,2016-01-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_74,2016-02-19 15:15:00,2016-02-19 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_75,2016-03-21 15:15:00,2016-03-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_76,2016-04-21 15:15:00,2016-04-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_77,2016-05-20 15:15:00,2016-05-20 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_78,2016-06-21 15:15:00,2016-06-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_79,2016-07-21 15:15:00,2016-07-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_80,2016-08-19 15:15:00,2016-08-19 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_81,2016-09-21 15:15:00,2016-09-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_82,2016-10-21 15:15:00,2016-10-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_83,2016-11-21 15:15:00,2016-11-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_84,2016-12-21 15:15:00,2016-12-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_85,2017-01-20 15:15:00,2017-01-20 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_86,2017-02-21 15:15:00,2017-02-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_87,2017-03-21 15:15:00,2017-03-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_88,2017-04-21 15:15:00,2017-04-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_89,2017-05-19 15:15:00,2017-05-19 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_90,2017-06-21 15:15:00,2017-06-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_91,2017-07-21 15:15:00,2017-07-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_92,2017-08-21 15:15:00,2017-08-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_93,2017-09-21 15:15:00,2017-09-21 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_94,2017-10-20 15:15:00,2017-10-20 16:15:00,Bhairaav Erector Pvt ltd - NCD of Rs. 50 Crores Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_95,2014-12-17 09:30:00,2014-12-17 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_96,2014-12-24 09:30:00,2014-12-24 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_97,2014-12-31 09:30:00,2014-12-31 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_98,2015-01-07 09:30:00,2015-01-07 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_99,2015-01-14 09:30:00,2015-01-14 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_100,2015-01-21 09:30:00,2015-01-21 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_101,2015-01-28 09:30:00,2015-01-28 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_102,2015-02-04 09:30:00,2015-02-04 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_103,2015-02-11 09:30:00,2015-02-11 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_104,2015-02-18 09:30:00,2015-02-18 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_105,2015-02-25 09:30:00,2015-02-25 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_106,2015-03-04 09:30:00,2015-03-04 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_107,2015-03-11 09:30:00,2015-03-11 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_108,2015-03-18 09:30:00,2015-03-18 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_109,2015-03-25 09:30:00,2015-03-25 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_110,2015-04-01 09:30:00,2015-04-01 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_111,2015-04-08 09:30:00,2015-04-08 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_112,2015-04-15 09:30:00,2015-04-15 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_113,2015-04-22 09:30:00,2015-04-22 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_114,2015-04-29 09:30:00,2015-04-29 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_115,2015-05-06 09:30:00,2015-05-06 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_116,2015-05-13 09:30:00,2015-05-13 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_117,2015-05-20 09:30:00,2015-05-20 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_118,2015-05-27 09:30:00,2015-05-27 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_119,2015-06-03 09:30:00,2015-06-03 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_120,2015-06-10 09:30:00,2015-06-10 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_121,2015-06-17 09:30:00,2015-06-17 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_122,2015-06-24 09:30:00,2015-06-24 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_123,2015-07-01 09:30:00,2015-07-01 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_124,2015-07-08 09:30:00,2015-07-08 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_125,2015-07-15 09:30:00,2015-07-15 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_126,2015-07-22 09:30:00,2015-07-22 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_127,2015-07-29 09:30:00,2015-07-29 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_128,2015-08-05 09:30:00,2015-08-05 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_129,2015-08-12 09:30:00,2015-08-12 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_130,2015-08-19 09:30:00,2015-08-19 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_131,2015-08-26 09:30:00,2015-08-26 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_132,2015-09-02 09:30:00,2015-09-02 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_133,2015-09-09 09:30:00,2015-09-09 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_134,2015-09-16 09:30:00,2015-09-16 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_135,2015-09-23 09:30:00,2015-09-23 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_136,2015-09-30 09:30:00,2015-09-30 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_137,2015-10-07 09:30:00,2015-10-07 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_138,2015-10-14 09:30:00,2015-10-14 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_139,2015-10-21 09:30:00,2015-10-21 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_140,2015-10-28 09:30:00,2015-10-28 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_141,2015-11-04 09:30:00,2015-11-04 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_142,2015-11-11 09:30:00,2015-11-11 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_143,2015-11-18 09:30:00,2015-11-18 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_144,2015-11-25 09:30:00,2015-11-25 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_145,2015-12-02 09:30:00,2015-12-02 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_146,2015-12-09 09:30:00,2015-12-09 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_147,2015-12-16 09:30:00,2015-12-16 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_148,2015-12-23 09:30:00,2015-12-23 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_149,2015-12-30 09:30:00,2015-12-30 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_150,2016-01-06 09:30:00,2016-01-06 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_151,2016-01-13 09:30:00,2016-01-13 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_152,2016-01-20 09:30:00,2016-01-20 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_153,2016-01-27 09:30:00,2016-01-27 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_154,2016-02-03 09:30:00,2016-02-03 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_155,2016-02-10 09:30:00,2016-02-10 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_156,2016-02-17 09:30:00,2016-02-17 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_157,2016-02-24 09:30:00,2016-02-24 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_158,2016-03-02 09:30:00,2016-03-02 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_159,2016-03-09 09:30:00,2016-03-09 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_160,2016-03-16 09:30:00,2016-03-16 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_161,2016-03-23 09:30:00,2016-03-23 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_162,2016-03-30 09:30:00,2016-03-30 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_163,2016-04-06 09:30:00,2016-04-06 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_164,2016-04-13 09:30:00,2016-04-13 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_165,2016-04-20 09:30:00,2016-04-20 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_166,2016-04-27 09:30:00,2016-04-27 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_167,2016-05-04 09:30:00,2016-05-04 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_168,2016-05-11 09:30:00,2016-05-11 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_169,2016-05-18 09:30:00,2016-05-18 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_170,2016-05-25 09:30:00,2016-05-25 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_171,2016-06-01 09:30:00,2016-06-01 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_172,2016-06-08 09:30:00,2016-06-08 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_173,2016-06-15 09:30:00,2016-06-15 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_174,2016-06-22 09:30:00,2016-06-22 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_175,2016-06-29 09:30:00,2016-06-29 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_176,2016-07-06 09:30:00,2016-07-06 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_177,2016-07-13 09:30:00,2016-07-13 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_178,2016-07-20 09:30:00,2016-07-20 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_179,2016-07-27 09:30:00,2016-07-27 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_180,2016-08-03 09:30:00,2016-08-03 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_181,2016-08-10 09:30:00,2016-08-10 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_182,2016-08-17 09:30:00,2016-08-17 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_183,2016-08-24 09:30:00,2016-08-24 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_184,2016-08-31 09:30:00,2016-08-31 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_185,2016-09-07 09:30:00,2016-09-07 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_186,2016-09-14 09:30:00,2016-09-14 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_187,2016-09-21 09:30:00,2016-09-21 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_188,2016-09-28 09:30:00,2016-09-28 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_189,2016-10-05 09:30:00,2016-10-05 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_190,2016-10-12 09:30:00,2016-10-12 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_191,2016-10-19 09:30:00,2016-10-19 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_192,2016-10-26 09:30:00,2016-10-26 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_193,2016-11-02 09:30:00,2016-11-02 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_194,2016-11-09 09:30:00,2016-11-09 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_195,2016-11-16 09:30:00,2016-11-16 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_196,2016-11-23 09:30:00,2016-11-23 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_197,2016-11-30 09:30:00,2016-11-30 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_198,2016-12-07 09:30:00,2016-12-07 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_199,2016-12-14 09:30:00,2016-12-14 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_200,2016-12-21 09:30:00,2016-12-21 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_201,2016-12-28 09:30:00,2016-12-28 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_202,2017-01-04 09:30:00,2017-01-04 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_203,2017-01-11 09:30:00,2017-01-11 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_204,2017-01-18 09:30:00,2017-01-18 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_205,2017-01-25 09:30:00,2017-01-25 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_206,2017-02-01 09:30:00,2017-02-01 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_207,2017-02-08 09:30:00,2017-02-08 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_208,2017-02-15 09:30:00,2017-02-15 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_209,2017-02-22 09:30:00,2017-02-22 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_210,2017-03-01 09:30:00,2017-03-01 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_211,2017-03-08 09:30:00,2017-03-08 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_212,2017-03-15 09:30:00,2017-03-15 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_213,2017-03-22 09:30:00,2017-03-22 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_214,2017-03-29 09:30:00,2017-03-29 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_215,2017-04-05 09:30:00,2017-04-05 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_216,2017-04-12 09:30:00,2017-04-12 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_217,2017-04-19 09:30:00,2017-04-19 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_218,2017-04-26 09:30:00,2017-04-26 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_219,2017-05-03 09:30:00,2017-05-03 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_220,2017-05-10 09:30:00,2017-05-10 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_221,2017-05-17 09:30:00,2017-05-17 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_222,2017-05-24 09:30:00,2017-05-24 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_223,2017-05-31 09:30:00,2017-05-31 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_224,2017-06-07 09:30:00,2017-06-07 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_225,2017-06-14 09:30:00,2017-06-14 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_226,2017-06-21 09:30:00,2017-06-21 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_227,2017-06-28 09:30:00,2017-06-28 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_228,2017-07-05 09:30:00,2017-07-05 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_229,2017-07-12 09:30:00,2017-07-12 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_230,2017-07-19 09:30:00,2017-07-19 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_231,2017-07-26 09:30:00,2017-07-26 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_232,2017-08-02 09:30:00,2017-08-02 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_233,2017-08-09 09:30:00,2017-08-09 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_234,2017-08-16 09:30:00,2017-08-16 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_235,2017-08-23 09:30:00,2017-08-23 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_236,2017-08-30 09:30:00,2017-08-30 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_237,2017-09-06 09:30:00,2017-09-06 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_238,2017-09-13 09:30:00,2017-09-13 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_239,2017-09-20 09:30:00,2017-09-20 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_240,2017-09-27 09:30:00,2017-09-27 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_241,2017-10-04 09:30:00,2017-10-04 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_242,2017-10-11 09:30:00,2017-10-11 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_243,2017-10-18 09:30:00,2017-10-18 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_244,2017-10-25 09:30:00,2017-10-25 10:30:00,bhairaav Wed Transfer,Shailesh Kokate,reminder,FALSE
+calendar_event_245,2015-06-15 09:00:00,2015-06-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_246,2015-12-15 09:00:00,2015-12-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_247,2016-06-15 09:00:00,2016-06-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_248,2016-12-15 09:00:00,2016-12-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_249,2017-06-15 09:00:00,2017-06-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_250,2017-12-15 09:00:00,2017-12-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_251,2018-06-15 09:00:00,2018-06-15 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_252,2018-12-14 09:00:00,2018-12-14 10:00:00,GMR Holding Pvt Ltd 300 CR Interest Payment,Shailesh Kokate,reminder,FALSE
+calendar_event_253,2016-01-13 09:00:00,2016-01-13 10:00:00,GMR Holdings Private Limited - 180 Crs,Shailesh Kokate,reminder,FALSE
+calendar_event_254,2017-01-13 09:00:00,2017-01-13 10:00:00,GMR Holdings Private Limited - 180 Crs,Shailesh Kokate,reminder,FALSE
+calendar_event_255,2018-01-15 09:00:00,2018-01-15 10:00:00,GMR Holdings Private Limited - 180 Crs,Shailesh Kokate,reminder,FALSE
+calendar_event_256,2019-01-13 09:00:00,2019-01-13 10:00:00,GMR Holdings Private Limited - 180 Crs,Shailesh Kokate,reminder,FALSE
+calendar_event_257,2020-01-13 09:00:00,2020-01-13 10:00:00,GMR Holdings Private Limited - 180 Crs,Shailesh Kokate,reminder,FALSE
+calendar_event_258,2015-04-15 15:45:00,2015-04-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_259,2015-07-15 15:45:00,2015-07-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_260,2015-10-15 15:45:00,2015-10-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_261,2016-01-15 15:45:00,2016-01-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_262,2016-04-15 15:45:00,2016-04-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_263,2016-07-15 15:45:00,2016-07-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_264,2016-10-14 15:45:00,2016-10-14 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_265,2017-01-13 15:45:00,2017-01-13 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_266,2017-04-14 15:45:00,2017-04-14 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_267,2017-07-14 15:45:00,2017-07-14 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_268,2017-10-13 15:45:00,2017-10-13 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_269,2018-01-15 15:45:00,2018-01-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_270,2018-04-13 15:45:00,2018-04-13 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_271,2018-07-13 15:45:00,2018-07-13 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_272,2018-10-15 15:45:00,2018-10-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_273,2019-01-15 15:45:00,2019-01-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_274,2019-04-15 15:45:00,2019-04-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_275,2019-07-15 15:45:00,2019-07-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_276,2019-10-15 15:45:00,2019-10-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_277,2020-01-15 15:45:00,2020-01-15 16:45:00,"ILFS Transaction - BRPL, BHPL, Sadbhav",Shailesh Kokate,reminder,FALSE
+calendar_event_278,2015-04-09 11:15:00,2015-04-09 12:15:00,"ILFS Transation - BRPL, BHPL, Sadbhav Document Confirmation",Shailesh Kokate,reminder,FALSE
+calendar_event_279,2016-04-08 11:15:00,2016-04-08 12:15:00,"ILFS Transation - BRPL, BHPL, Sadbhav Document Confirmation",Shailesh Kokate,reminder,FALSE
+calendar_event_280,2017-04-07 11:15:00,2017-04-07 12:15:00,"ILFS Transation - BRPL, BHPL, Sadbhav Document Confirmation",Shailesh Kokate,reminder,FALSE
+calendar_event_281,2018-04-09 11:15:00,2018-04-09 12:15:00,"ILFS Transation - BRPL, BHPL, Sadbhav Document Confirmation",Shailesh Kokate,reminder,FALSE
+calendar_event_282,2019-04-09 11:15:00,2019-04-09 12:15:00,"ILFS Transation - BRPL, BHPL, Sadbhav Document Confirmation",Shailesh Kokate,reminder,FALSE
+calendar_event_283,2017-09-11 13:30:00,2017-09-11 14:30:00,INDIA INFOLINE HOUSING FINANCE LIMITED redemption ,Shailesh Kokate,reminder,FALSE
+calendar_event_284,2017-09-25 13:30:00,2017-09-25 14:30:00,INDIA INFOLINE HOUSING FINANCE LIMITED redemption ,Shailesh Kokate,reminder,FALSE
+calendar_event_285,2017-10-02 13:30:00,2017-10-02 14:30:00,INDIA INFOLINE HOUSING FINANCE LIMITED redemption ,Shailesh Kokate,reminder,FALSE
+calendar_event_286,2014-11-27 09:00:00,2014-11-27 10:00:00,Interest payment for Peninsula land Limited 180,Shailesh Kokate,reminder,FALSE
+calendar_event_287,2015-07-24 10:30:00,2015-07-24 11:30:00,Invitation: Call on PwC appointment  //  Lotus Green (in Mumbai  022-39402940 //  Gurgaon 0124-3940294  //  Delhi 011-39402940  //  Kolkata  033-39402940  [Guest Passcode: 9863100#]),Anuj Madan,meeting,FALSE
+calendar_event_288,2015-04-14 17:00:00,2015-04-14 18:00:00,Invitation: Team get together - Please make yourself available on 14th Evening ,Jayesh Khaitan,meeting,FALSE
+calendar_event_289,2014-12-10 09:00:00,2014-12-10 10:00:00,Manappuram FInance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_290,2015-01-21 10:00:00,2015-01-21 11:00:00,Manappuram Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_291,2015-02-24 10:00:00,2015-02-24 11:00:00,Manappuram Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_292,2015-06-10 09:00:00,2015-06-10 10:00:00,Manappuram FInance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_293,2015-12-10 09:00:00,2015-12-10 10:00:00,Manappuram FInance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_294,2016-01-21 10:00:00,2016-01-21 11:00:00,Manappuram Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_295,2016-06-10 09:00:00,2016-06-10 10:00:00,Manappuram FInance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_296,2017-01-20 09:00:00,2017-01-20 10:00:00,Manappuram Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_297,2018-01-22 09:00:00,2018-01-22 10:00:00,Manappuram Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_298,2019-01-21 10:00:00,2019-01-21 11:00:00,Manappuram Finance Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_299,2015-03-23 11:15:00,2015-03-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_300,2015-06-25 11:15:00,2015-06-25 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_301,2015-09-23 11:15:00,2015-09-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_302,2015-12-23 11:15:00,2015-12-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_303,2016-03-23 11:15:00,2016-03-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_304,2016-06-23 11:15:00,2016-06-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_305,2016-09-23 11:15:00,2016-09-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_306,2016-12-23 11:15:00,2016-12-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_307,2017-03-23 11:15:00,2017-03-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_308,2017-06-23 11:15:00,2017-06-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_309,2017-09-23 11:15:00,2017-09-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_310,2017-12-25 11:15:00,2017-12-25 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_311,2018-03-23 11:15:00,2018-03-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_312,2018-06-23 11:15:00,2018-06-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_313,2018-09-25 11:15:00,2018-09-25 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_314,2018-12-23 11:15:00,2018-12-23 12:15:00,mgage India Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_315,2017-02-20 09:00:00,2017-02-20 10:00:00,mgage India Pvt ltd,Shailesh Kokate,reminder,FALSE
+calendar_event_316,2017-08-21 09:00:00,2017-08-21 10:00:00,mgage India Pvt ltd,Shailesh Kokate,reminder,FALSE
+calendar_event_317,2018-02-19 09:00:00,2018-02-19 10:00:00,mgage India Pvt ltd,Shailesh Kokate,reminder,FALSE
+calendar_event_318,2018-08-20 09:00:00,2018-08-20 10:00:00,mgage India Pvt ltd,Shailesh Kokate,reminder,FALSE
+calendar_event_319,2019-02-18 09:00:00,2019-02-18 10:00:00,mgage India Pvt ltd,Shailesh Kokate,reminder,FALSE
+calendar_event_320,2014-12-25 10:45:00,2014-12-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_321,2015-01-23 10:45:00,2015-01-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_322,2015-02-25 10:45:00,2015-02-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_323,2015-03-25 10:45:00,2015-03-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_324,2015-04-24 10:45:00,2015-04-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_325,2015-05-25 10:45:00,2015-05-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_326,2015-06-25 10:45:00,2015-06-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_327,2015-07-24 10:45:00,2015-07-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_328,2015-08-25 10:45:00,2015-08-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_329,2015-09-25 10:45:00,2015-09-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_330,2015-10-23 10:45:00,2015-10-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_331,2015-11-25 10:45:00,2015-11-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_332,2015-12-25 10:45:00,2015-12-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_333,2016-01-25 10:45:00,2016-01-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_334,2016-02-25 10:45:00,2016-02-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_335,2016-03-25 10:45:00,2016-03-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_336,2016-04-25 10:45:00,2016-04-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_337,2016-05-02 11:30:00,2016-05-02 12:30:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_338,2016-05-25 10:45:00,2016-05-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_339,2016-06-24 10:45:00,2016-06-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_340,2016-07-25 10:45:00,2016-07-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_341,2016-08-25 10:45:00,2016-08-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_342,2016-09-23 10:45:00,2016-09-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_343,2016-10-25 10:45:00,2016-10-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_344,2016-11-25 10:45:00,2016-11-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_345,2016-12-23 10:45:00,2016-12-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_346,2017-01-25 10:45:00,2017-01-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_347,2017-02-24 10:45:00,2017-02-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_348,2017-03-24 10:45:00,2017-03-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_349,2017-04-25 10:45:00,2017-04-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_350,2017-05-25 10:45:00,2017-05-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_351,2017-06-23 10:45:00,2017-06-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_352,2017-07-25 10:45:00,2017-07-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_353,2017-08-25 10:45:00,2017-08-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_354,2017-09-25 10:45:00,2017-09-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_355,2017-10-25 10:45:00,2017-10-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_356,2017-11-02 11:30:00,2017-11-02 12:30:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_357,2017-11-24 10:45:00,2017-11-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_358,2017-12-25 10:45:00,2017-12-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_359,2018-01-25 10:45:00,2018-01-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_360,2018-02-23 10:45:00,2018-02-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_361,2018-03-23 10:45:00,2018-03-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_362,2018-04-25 10:45:00,2018-04-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_363,2018-05-02 11:30:00,2018-05-02 12:30:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_364,2018-05-25 10:45:00,2018-05-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_365,2018-06-25 10:45:00,2018-06-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_366,2018-07-25 10:45:00,2018-07-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_367,2018-08-24 10:45:00,2018-08-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_368,2018-09-25 10:45:00,2018-09-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_369,2018-10-25 10:45:00,2018-10-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_370,2018-11-23 10:45:00,2018-11-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_371,2018-12-25 10:45:00,2018-12-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_372,2019-01-25 10:45:00,2019-01-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_373,2019-02-25 10:45:00,2019-02-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_374,2019-03-25 10:45:00,2019-03-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_375,2019-04-25 10:45:00,2019-04-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_376,2019-05-24 10:45:00,2019-05-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_377,2019-06-25 10:45:00,2019-06-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_378,2019-07-25 10:45:00,2019-07-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_379,2019-08-23 10:45:00,2019-08-23 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_380,2019-09-25 10:45:00,2019-09-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_381,2019-10-25 10:45:00,2019-10-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_382,2019-11-25 10:45:00,2019-11-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_383,2019-12-25 10:45:00,2019-12-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_384,2020-01-24 10:45:00,2020-01-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_385,2020-02-25 10:45:00,2020-02-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_386,2020-03-25 10:45:00,2020-03-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_387,2020-04-24 10:45:00,2020-04-24 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_388,2020-05-04 11:30:00,2020-05-04 12:30:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_389,2020-05-25 10:45:00,2020-05-25 11:45:00,Muthoottu Mini Financiers Private Limited  3rd Public Issue,Shailesh Kokate,reminder,FALSE
+calendar_event_390,2016-09-01 15:15:00,2016-09-01 16:15:00,Ozone Projects Private Limited 1.43 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_391,2015-09-18 10:00:00,2015-09-18 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_392,2015-12-18 10:00:00,2015-12-18 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_393,2016-03-18 10:00:00,2016-03-18 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_394,2016-06-20 10:00:00,2016-06-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_395,2016-09-20 10:00:00,2016-09-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_396,2016-12-20 10:00:00,2016-12-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_397,2017-03-20 10:00:00,2017-03-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_398,2017-06-20 10:00:00,2017-06-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_399,2017-09-20 10:00:00,2017-09-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_400,2017-12-20 10:00:00,2017-12-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_401,2018-03-20 10:00:00,2018-03-20 11:00:00,Parinee Contour Construction Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_402,2014-11-17 10:00:00,2014-11-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_403,2015-02-17 10:00:00,2015-02-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_404,2015-05-18 10:00:00,2015-05-18 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_405,2015-08-17 10:00:00,2015-08-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_406,2015-11-17 10:00:00,2015-11-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_407,2016-02-17 10:00:00,2016-02-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_408,2016-05-17 10:00:00,2016-05-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_409,2016-08-17 10:00:00,2016-08-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_410,2016-11-17 10:00:00,2016-11-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_411,2017-02-17 10:00:00,2017-02-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_412,2017-05-17 10:00:00,2017-05-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_413,2017-08-17 10:00:00,2017-08-17 11:00:00,Peninsula Land Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_414,2015-10-01 11:00:00,2015-10-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_415,2016-01-01 11:00:00,2016-01-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_416,2016-04-01 11:00:00,2016-04-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_417,2016-07-01 11:00:00,2016-07-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_418,2016-09-30 11:00:00,2016-09-30 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_419,2016-12-30 11:00:00,2016-12-30 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_420,2017-03-31 11:00:00,2017-03-31 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_421,2017-06-30 11:00:00,2017-06-30 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_422,2017-09-29 11:00:00,2017-09-29 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_423,2018-01-01 11:00:00,2018-01-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_424,2018-03-30 11:00:00,2018-03-30 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_425,2018-06-29 11:00:00,2018-06-29 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_426,2018-10-01 11:00:00,2018-10-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_427,2019-01-01 11:00:00,2019-01-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_428,2019-04-01 11:00:00,2019-04-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_429,2019-07-01 11:00:00,2019-07-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_430,2019-10-01 11:00:00,2019-10-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_431,2020-01-01 11:00:00,2020-01-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_432,2020-04-01 11:00:00,2020-04-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_433,2020-07-01 11:00:00,2020-07-01 12:00:00,PIER MIS from the Company- reminder,Shailesh Kokate,reminder,FALSE
+calendar_event_434,2015-07-30 00:00:00,2015-07-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_435,2015-08-14 00:00:00,2015-08-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_436,2015-08-28 00:00:00,2015-08-28 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_437,2015-09-14 00:00:00,2015-09-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_438,2015-09-30 00:00:00,2015-09-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_439,2015-10-14 00:00:00,2015-10-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_440,2015-10-30 00:00:00,2015-10-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_441,2015-11-13 00:00:00,2015-11-13 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_442,2015-11-30 00:00:00,2015-11-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_443,2015-12-14 00:00:00,2015-12-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_444,2015-12-30 00:00:00,2015-12-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_445,2016-01-14 00:00:00,2016-01-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_446,2016-01-29 00:00:00,2016-01-29 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_447,2016-02-12 00:00:00,2016-02-12 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_448,2016-03-14 00:00:00,2016-03-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_449,2016-03-30 00:00:00,2016-03-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_450,2016-04-14 00:00:00,2016-04-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_451,2016-04-29 00:00:00,2016-04-29 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_452,2016-05-13 00:00:00,2016-05-13 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_453,2016-05-30 00:00:00,2016-05-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_454,2016-06-14 00:00:00,2016-06-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_455,2016-06-30 00:00:00,2016-06-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_456,2016-07-14 00:00:00,2016-07-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_457,2016-07-29 00:00:00,2016-07-29 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_458,2016-08-12 00:00:00,2016-08-12 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_459,2016-08-30 00:00:00,2016-08-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_460,2016-09-14 00:00:00,2016-09-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_461,2016-09-30 00:00:00,2016-09-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_462,2016-10-14 00:00:00,2016-10-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_463,2016-10-28 00:00:00,2016-10-28 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_464,2016-11-14 00:00:00,2016-11-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_465,2016-11-30 00:00:00,2016-11-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_466,2016-12-14 00:00:00,2016-12-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_467,2016-12-30 00:00:00,2016-12-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_468,2017-01-13 00:00:00,2017-01-13 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_469,2017-01-30 00:00:00,2017-01-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_470,2017-02-14 00:00:00,2017-02-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_471,2017-03-14 00:00:00,2017-03-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_472,2017-03-30 00:00:00,2017-03-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_473,2017-04-14 00:00:00,2017-04-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_474,2017-04-28 00:00:00,2017-04-28 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_475,2017-05-12 00:00:00,2017-05-12 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_476,2017-05-30 00:00:00,2017-05-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_477,2017-06-14 00:00:00,2017-06-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_478,2017-06-30 00:00:00,2017-06-30 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_479,2017-07-14 00:00:00,2017-07-14 01:00:00,PMR for Bacchus Hospitality on Fortnightly basis,Shailesh Kokate,anniversaries,FALSE
+calendar_event_480,2015-09-15 10:00:00,2015-09-15 11:00:00,Relaince Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_481,2016-04-18 10:00:00,2016-04-18 11:00:00,Relaince Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_482,2016-06-15 10:00:00,2016-06-15 11:00:00,Reliance  Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_483,2014-08-14 10:00:00,2014-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_484,2014-10-15 10:00:00,2014-10-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_485,2014-10-16 10:00:00,2014-10-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_486,2014-10-24 10:00:00,2014-10-24 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_487,2014-11-07 10:00:00,2014-11-07 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_488,2014-11-18 10:00:00,2014-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_489,2014-12-01 10:00:00,2014-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_490,2014-12-15 10:00:00,2014-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_491,2014-12-15 10:00:00,2014-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_492,2014-12-23 10:00:00,2014-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_493,2015-01-01 10:00:00,2015-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_494,2015-01-06 10:00:00,2015-01-06 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_495,2015-01-20 10:00:00,2015-01-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_496,2015-01-26 10:00:00,2015-01-26 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_497,2015-03-10 10:00:00,2015-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_498,2015-03-10 10:00:00,2015-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_499,2015-04-10 09:00:00,2015-04-10 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_500,2015-04-15 10:00:00,2015-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_501,2015-04-20 10:00:00,2015-04-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_502,2015-04-23 10:00:00,2015-04-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_503,2015-04-28 10:00:00,2015-04-28 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_504,2015-05-11 10:00:00,2015-05-11 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_505,2015-05-18 10:00:00,2015-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_506,2015-05-18 10:00:00,2015-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_507,2015-05-20 10:00:00,2015-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_508,2015-05-20 10:00:00,2015-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_509,2015-06-01 10:00:00,2015-06-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_510,2015-06-18 10:00:00,2015-06-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_511,2015-06-23 10:00:00,2015-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_512,2015-07-01 09:00:00,2015-07-01 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_513,2015-07-01 10:00:00,2015-07-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_514,2015-07-02 10:00:00,2015-07-02 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_515,2015-08-14 09:00:00,2015-08-14 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_516,2015-08-14 10:00:00,2015-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_517,2015-08-14 10:00:00,2015-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_518,2015-10-15 10:00:00,2015-10-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_519,2015-10-16 10:00:00,2015-10-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_520,2015-10-26 10:00:00,2015-10-26 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_521,2015-10-28 10:00:00,2015-10-28 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_522,2015-11-02 10:00:00,2015-11-02 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_523,2015-11-18 10:00:00,2015-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_524,2015-12-01 10:00:00,2015-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_525,2015-12-01 10:00:00,2015-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_526,2015-12-10 10:00:00,2015-12-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_527,2015-12-15 10:00:00,2015-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_528,2015-12-15 10:00:00,2015-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_529,2015-12-15 10:00:00,2015-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_530,2015-12-21 10:00:00,2015-12-21 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_531,2015-12-23 10:00:00,2015-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_532,2016-01-01 10:00:00,2016-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_533,2016-01-01 10:00:00,2016-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_534,2016-02-01 10:00:00,2016-02-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_535,2016-02-08 09:00:00,2016-02-08 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_536,2016-03-10 10:00:00,2016-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_537,2016-04-01 09:00:00,2016-04-01 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_538,2016-04-07 10:00:00,2016-04-07 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_539,2016-04-08 09:00:00,2016-04-08 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_540,2016-04-12 10:00:00,2016-04-12 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_541,2016-04-15 10:00:00,2016-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_542,2016-04-25 10:00:00,2016-04-25 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_543,2016-05-02 10:00:00,2016-05-02 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_544,2016-05-10 10:00:00,2016-05-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_545,2016-05-10 10:00:00,2016-05-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_546,2016-05-16 10:00:00,2016-05-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_547,2016-05-18 10:00:00,2016-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_548,2016-05-18 10:00:00,2016-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_549,2016-05-20 10:00:00,2016-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_550,2016-05-20 10:00:00,2016-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_551,2016-06-01 10:00:00,2016-06-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_552,2016-06-06 10:00:00,2016-06-06 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_553,2016-06-14 10:00:00,2016-06-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_554,2016-06-16 10:00:00,2016-06-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_555,2016-06-17 10:00:00,2016-06-17 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_556,2016-06-20 10:00:00,2016-06-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_557,2016-06-22 09:00:00,2016-06-22 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_558,2016-06-23 10:00:00,2016-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_559,2016-06-24 10:00:00,2016-06-24 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_560,2016-07-01 10:00:00,2016-07-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_561,2016-07-05 10:00:00,2016-07-05 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_562,2016-07-12 10:00:00,2016-07-12 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_563,2016-07-22 10:00:00,2016-07-22 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_564,2016-08-01 10:00:00,2016-08-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_565,2016-08-01 10:00:00,2016-08-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_566,2016-08-12 10:00:00,2016-08-12 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_567,2016-08-25 10:00:00,2016-08-25 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_568,2016-09-01 10:00:00,2016-09-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_569,2016-10-14 10:00:00,2016-10-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_570,2016-10-14 10:00:00,2016-10-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_571,2016-11-18 10:00:00,2016-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_572,2016-12-01 10:00:00,2016-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_573,2016-12-15 10:00:00,2016-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_574,2016-12-15 10:00:00,2016-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_575,2016-12-15 10:00:00,2016-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_576,2016-12-23 10:00:00,2016-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_577,2016-12-26 10:00:00,2016-12-26 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_578,2016-12-30 10:00:00,2016-12-30 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_579,2017-01-16 10:00:00,2017-01-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_580,2017-01-24 09:00:00,2017-01-24 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_581,2017-01-25 10:00:00,2017-01-25 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_582,2017-02-06 10:00:00,2017-02-06 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_583,2017-02-23 10:00:00,2017-02-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_584,2017-03-01 10:00:00,2017-03-01 11:00:00,Reliance Capital limited,Shailesh Kokate,reminder,FALSE
+calendar_event_585,2017-03-03 10:00:00,2017-03-03 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_586,2017-03-06 10:00:00,2017-03-06 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_587,2017-03-10 10:00:00,2017-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_588,2017-03-15 10:00:00,2017-03-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_589,2017-03-24 10:00:00,2017-03-24 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_590,2017-03-27 09:00:00,2017-03-27 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_591,2017-04-03 10:00:00,2017-04-03 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_592,2017-04-06 10:00:00,2017-04-06 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_593,2017-04-10 09:00:00,2017-04-10 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_594,2017-04-14 10:00:00,2017-04-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_595,2017-04-24 10:00:00,2017-04-24 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_596,2017-04-28 10:00:00,2017-04-28 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_597,2017-05-02 09:00:00,2017-05-02 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_598,2017-05-05 10:00:00,2017-05-05 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_599,2017-05-16 10:00:00,2017-05-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_600,2017-05-18 10:00:00,2017-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_601,2017-05-18 10:00:00,2017-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_602,2017-05-19 10:00:00,2017-05-19 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_603,2017-05-19 10:00:00,2017-05-19 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_604,2017-06-02 10:00:00,2017-06-02 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_605,2017-06-05 10:00:00,2017-06-05 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_606,2017-06-13 10:00:00,2017-06-13 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_607,2017-06-16 10:00:00,2017-06-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_608,2017-06-23 10:00:00,2017-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_609,2017-06-27 10:00:00,2017-06-27 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_610,2017-06-30 10:00:00,2017-06-30 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_611,2017-07-03 10:00:00,2017-07-03 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_612,2017-07-28 10:00:00,2017-07-28 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_613,2017-08-01 09:00:00,2017-08-01 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_614,2017-08-01 10:00:00,2017-08-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_615,2017-08-10 10:00:00,2017-08-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_616,2017-08-14 10:00:00,2017-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_617,2017-09-25 09:00:00,2017-09-25 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_618,2017-10-13 10:00:00,2017-10-13 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_619,2017-10-16 10:00:00,2017-10-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_620,2017-11-17 10:00:00,2017-11-17 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_621,2017-12-01 10:00:00,2017-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_622,2017-12-15 10:00:00,2017-12-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_623,2017-12-22 10:00:00,2017-12-22 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_624,2018-01-01 10:00:00,2018-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_625,2018-03-09 10:00:00,2018-03-09 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_626,2018-04-10 09:00:00,2018-04-10 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_627,2018-04-13 10:00:00,2018-04-13 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_628,2018-05-16 10:00:00,2018-05-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_629,2018-05-18 10:00:00,2018-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_630,2018-05-18 10:00:00,2018-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_631,2018-05-18 10:00:00,2018-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_632,2018-05-18 10:00:00,2018-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_633,2018-06-18 10:00:00,2018-06-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_634,2018-06-22 10:00:00,2018-06-22 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_635,2018-06-29 10:00:00,2018-06-29 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_636,2018-08-14 10:00:00,2018-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_637,2018-10-15 10:00:00,2018-10-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_638,2018-10-16 10:00:00,2018-10-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_639,2018-11-07 10:00:00,2018-11-07 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_640,2018-11-16 10:00:00,2018-11-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_641,2018-11-30 10:00:00,2018-11-30 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_642,2018-12-14 10:00:00,2018-12-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_643,2018-12-21 10:00:00,2018-12-21 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_644,2019-01-01 10:00:00,2019-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_645,2019-03-08 10:00:00,2019-03-08 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_646,2019-04-10 09:00:00,2019-04-10 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_647,2019-04-15 10:00:00,2019-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_648,2019-05-16 10:00:00,2019-05-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_649,2019-05-17 10:00:00,2019-05-17 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_650,2019-05-17 10:00:00,2019-05-17 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_651,2019-05-20 10:00:00,2019-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_652,2019-06-18 10:00:00,2019-06-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_653,2019-06-21 10:00:00,2019-06-21 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_654,2019-07-01 10:00:00,2019-07-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_655,2019-08-14 10:00:00,2019-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_656,2019-10-15 10:00:00,2019-10-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_657,2019-10-16 10:00:00,2019-10-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_658,2019-11-18 10:00:00,2019-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_659,2019-11-29 10:00:00,2019-11-29 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_660,2019-12-23 10:00:00,2019-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_661,2020-01-01 10:00:00,2020-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_662,2020-03-10 10:00:00,2020-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_663,2020-04-10 09:00:00,2020-04-10 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_664,2020-04-15 10:00:00,2020-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_665,2020-05-15 10:00:00,2020-05-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_666,2020-05-18 10:00:00,2020-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_667,2020-05-18 10:00:00,2020-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_668,2020-05-20 10:00:00,2020-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_669,2020-06-18 10:00:00,2020-06-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_670,2020-06-23 10:00:00,2020-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_671,2020-07-01 10:00:00,2020-07-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_672,2020-08-14 10:00:00,2020-08-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_673,2020-10-15 10:00:00,2020-10-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_674,2020-10-16 10:00:00,2020-10-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_675,2020-11-18 10:00:00,2020-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_676,2020-12-01 10:00:00,2020-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_677,2020-12-23 10:00:00,2020-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_678,2021-01-01 10:00:00,2021-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_679,2021-03-10 10:00:00,2021-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_680,2021-04-09 09:00:00,2021-04-09 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_681,2021-04-15 10:00:00,2021-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_682,2021-05-14 10:00:00,2021-05-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_683,2021-05-18 10:00:00,2021-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_684,2021-05-18 10:00:00,2021-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_685,2021-05-20 10:00:00,2021-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_686,2021-06-18 10:00:00,2021-06-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_687,2021-06-23 10:00:00,2021-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_688,2021-07-01 10:00:00,2021-07-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_689,2021-10-15 10:00:00,2021-10-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_690,2021-11-18 10:00:00,2021-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_691,2021-12-01 10:00:00,2021-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_692,2021-12-23 10:00:00,2021-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_693,2021-12-31 10:00:00,2021-12-31 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_694,2022-03-10 10:00:00,2022-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_695,2022-04-08 09:00:00,2022-04-08 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_696,2022-04-15 10:00:00,2022-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_697,2022-05-16 10:00:00,2022-05-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_698,2022-05-18 10:00:00,2022-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_699,2022-05-18 10:00:00,2022-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_700,2022-05-20 10:00:00,2022-05-20 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_701,2022-06-17 10:00:00,2022-06-17 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_702,2022-06-23 10:00:00,2022-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_703,2022-07-01 10:00:00,2022-07-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_704,2022-10-14 10:00:00,2022-10-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_705,2022-11-18 10:00:00,2022-11-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_706,2022-12-01 10:00:00,2022-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_707,2022-12-23 10:00:00,2022-12-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_708,2022-12-30 10:00:00,2022-12-30 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_709,2023-03-10 10:00:00,2023-03-10 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_710,2023-04-10 09:00:00,2023-04-10 10:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_711,2023-04-14 10:00:00,2023-04-14 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_712,2023-05-16 10:00:00,2023-05-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_713,2023-05-18 10:00:00,2023-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_714,2023-05-18 10:00:00,2023-05-18 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_715,2023-05-19 10:00:00,2023-05-19 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_716,2023-06-16 10:00:00,2023-06-16 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_717,2023-06-23 10:00:00,2023-06-23 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_718,2023-06-30 10:00:00,2023-06-30 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_719,2023-10-13 10:00:00,2023-10-13 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_720,2023-11-17 10:00:00,2023-11-17 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_721,2023-12-01 10:00:00,2023-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_722,2023-12-22 10:00:00,2023-12-22 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_723,2024-01-01 10:00:00,2024-01-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_724,2024-04-15 10:00:00,2024-04-15 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_725,2024-11-29 10:00:00,2024-11-29 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_726,2025-12-01 10:00:00,2025-12-01 11:00:00,Reliance Capital Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_727,2017-03-03 10:00:00,2017-03-03 11:00:00,Reliance Capital Limited ,Shailesh Kokate,reminder,FALSE
+calendar_event_728,2017-02-01 10:45:00,2017-02-01 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_729,2016-01-01 10:00:00,2016-01-01 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_730,2016-02-01 10:00:00,2016-02-01 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_731,2016-02-15 10:00:00,2016-02-15 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_732,2016-03-01 10:45:00,2016-03-01 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_733,2016-03-01 10:45:00,2016-03-01 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_734,2016-03-15 10:45:00,2016-03-15 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_735,2016-12-08 10:00:00,2016-12-08 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_736,2017-01-02 10:00:00,2017-01-02 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_737,2017-03-01 10:45:00,2017-03-01 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_738,2017-07-03 10:00:00,2017-07-03 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_739,2018-02-26 10:45:00,2018-02-26 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_740,2018-03-01 10:45:00,2018-03-01 11:45:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_741,2018-04-02 10:00:00,2018-04-02 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_742,2018-04-02 10:00:00,2018-04-02 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_743,2018-04-10 10:00:00,2018-04-10 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_744,2018-04-16 10:00:00,2018-04-16 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_745,2018-04-25 10:00:00,2018-04-25 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_746,2018-05-01 10:00:00,2018-05-01 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_747,2018-06-01 10:00:00,2018-06-01 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_748,2018-06-11 10:00:00,2018-06-11 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_749,2018-06-20 10:00:00,2018-06-20 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_750,2018-07-02 10:00:00,2018-07-02 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_751,2018-08-01 10:00:00,2018-08-01 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_752,2018-08-01 10:00:00,2018-08-01 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_753,2018-08-10 10:00:00,2018-08-10 11:00:00,Reliance Capital Limited - NCD of Rs. 5000 Crores ,Shailesh Kokate,reminder,FALSE
+calendar_event_754,2014-10-30 15:00:00,2014-10-30 15:00:00,sanjay dodti,Shailesh Kokate,reminder,FALSE
+calendar_event_755,2015-05-25 10:00:00,2015-05-25 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_756,2015-08-24 10:00:00,2015-08-24 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_757,2015-11-23 10:00:00,2015-11-23 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_758,2016-02-22 10:00:00,2016-02-22 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_759,2016-05-23 10:00:00,2016-05-23 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_760,2016-08-22 10:00:00,2016-08-22 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_761,2016-11-21 10:00:00,2016-11-21 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_762,2017-02-20 10:00:00,2017-02-20 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_763,2017-05-22 10:00:00,2017-05-22 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_764,2017-08-21 10:00:00,2017-08-21 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_765,2017-11-20 10:00:00,2017-11-20 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_766,2018-02-20 10:00:00,2018-02-20 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_767,2018-05-21 10:00:00,2018-05-21 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_768,2018-07-23 10:00:00,2018-07-23 11:00:00,Unicon Shelters Private Limited,Shailesh Kokate,reminder,FALSE
+calendar_event_769,2020-05-04 12:45:00,2020-05-04 12:45:00,Velankani Information System - Expected Maturity Date ,Shailesh Kokate,reminder,FALSE
+calendar_event_770,2023-05-02 12:45:00,2023-05-02 12:45:00,Velankani Information System - Final Maturity Date ,Shailesh Kokate,reminder,FALSE
+calendar_event_771,2015-09-01 09:00:00,2015-09-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_772,2015-10-01 09:00:00,2015-10-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_773,2015-11-01 09:00:00,2015-11-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_774,2015-12-01 09:00:00,2015-12-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_775,2016-01-01 09:00:00,2016-01-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_776,2016-02-01 09:00:00,2016-02-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_777,2016-03-01 09:00:00,2016-03-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_778,2016-04-01 09:00:00,2016-04-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_779,2016-06-02 09:00:00,2016-06-02 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_780,2016-07-01 09:00:00,2016-07-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_781,2016-08-01 09:00:00,2016-08-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_782,2016-09-01 09:00:00,2016-09-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_783,2016-10-03 09:00:00,2016-10-03 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_784,2016-11-01 09:00:00,2016-11-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_785,2016-12-01 09:00:00,2016-12-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_786,2017-01-02 09:00:00,2017-01-02 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_787,2017-02-01 09:00:00,2017-02-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_788,2017-03-01 09:00:00,2017-03-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_789,2017-04-03 09:00:00,2017-04-03 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_790,2017-05-01 09:00:00,2017-05-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_791,2017-06-01 09:00:00,2017-06-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_792,2017-07-03 09:00:00,2017-07-03 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_793,2017-08-01 09:00:00,2017-08-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_794,2017-09-01 09:00:00,2017-09-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_795,2017-10-02 09:00:00,2017-10-02 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_796,2017-11-01 09:00:00,2017-11-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_797,2017-12-01 09:00:00,2017-12-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_798,2018-01-01 09:00:00,2018-01-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_799,2018-02-01 09:00:00,2018-02-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_800,2018-03-01 09:00:00,2018-03-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_801,2018-04-02 09:00:00,2018-04-02 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_802,2018-05-01 09:00:00,2018-05-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_803,2018-06-01 09:00:00,2018-06-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_804,2018-07-03 09:00:00,2018-07-03 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_805,2018-08-01 09:00:00,2018-08-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_806,2018-09-02 09:00:00,2018-09-02 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_807,2018-10-01 09:00:00,2018-10-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_808,2018-11-01 09:00:00,2018-11-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_809,2018-12-01 09:00:00,2018-12-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_810,2019-01-01 09:00:00,2019-01-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_811,2019-02-01 09:00:00,2019-02-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_812,2019-03-01 09:00:00,2019-03-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_813,2019-04-01 09:00:00,2019-04-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_814,2019-05-01 09:00:00,2019-05-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_815,2019-06-01 09:00:00,2019-06-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_816,2019-07-01 09:00:00,2019-07-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_817,2019-08-01 09:00:00,2019-08-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_818,2019-09-01 09:00:00,2019-09-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_819,2019-10-01 09:00:00,2019-10-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_820,2019-11-01 09:00:00,2019-11-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_821,2019-12-01 09:00:00,2019-12-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_822,2020-01-01 09:00:00,2020-01-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_823,2020-02-01 09:00:00,2020-02-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_824,2020-03-01 09:00:00,2020-03-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_825,2020-04-01 09:00:00,2020-04-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_826,2020-05-01 09:00:00,2020-05-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_827,2020-06-01 09:00:00,2020-06-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_828,2020-07-01 09:00:00,2020-07-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_829,2020-08-01 09:00:00,2020-08-01 10:00:00,Velankani Information System - Interest Payment 10th on Every Month,Shailesh Kokate,reminder,FALSE
+calendar_event_830,2015-03-16 15:15:00,2015-03-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_831,2015-06-16 15:15:00,2015-06-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_832,2015-09-16 15:15:00,2015-09-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_833,2015-12-16 15:15:00,2015-12-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_834,2016-03-16 15:15:00,2016-03-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_835,2016-06-16 15:15:00,2016-06-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_836,2016-09-16 15:15:00,2016-09-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_837,2016-12-16 15:15:00,2016-12-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_838,2017-03-16 15:15:00,2017-03-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_839,2017-06-16 15:15:00,2017-06-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_840,2017-09-15 15:15:00,2017-09-15 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_841,2017-12-15 15:15:00,2017-12-15 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_842,2018-03-16 15:15:00,2018-03-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_843,2018-06-15 15:15:00,2018-06-15 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_844,2018-09-14 15:15:00,2018-09-14 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_845,2018-12-14 15:15:00,2018-12-14 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_846,2019-03-15 15:15:00,2019-03-15 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_847,2019-06-14 15:15:00,2019-06-14 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_848,2019-09-16 15:15:00,2019-09-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_849,2019-12-16 15:15:00,2019-12-16 16:15:00,VGN Developers Private limited - 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_850,2016-09-01 13:45:00,2016-09-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_851,2016-10-03 13:45:00,2016-10-03 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_852,2016-11-01 13:45:00,2016-11-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_853,2016-12-01 13:45:00,2016-12-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_854,2017-01-02 13:45:00,2017-01-02 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_855,2017-02-01 13:45:00,2017-02-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_856,2017-03-01 13:45:00,2017-03-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_857,2017-04-03 13:45:00,2017-04-03 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_858,2017-05-01 13:45:00,2017-05-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_859,2017-06-01 13:45:00,2017-06-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_860,2017-07-03 13:45:00,2017-07-03 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_861,2017-08-01 13:45:00,2017-08-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_862,2017-09-01 13:45:00,2017-09-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_863,2017-10-02 13:45:00,2017-10-02 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_864,2017-11-01 13:45:00,2017-11-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_865,2017-12-01 13:45:00,2017-12-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_866,2018-01-01 13:45:00,2018-01-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_867,2018-02-01 13:45:00,2018-02-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_868,2018-03-01 13:45:00,2018-03-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_869,2018-04-02 13:45:00,2018-04-02 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_870,2018-05-01 13:45:00,2018-05-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_871,2018-06-01 13:45:00,2018-06-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_872,2018-07-02 13:45:00,2018-07-02 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_873,2018-08-01 13:45:00,2018-08-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_874,2018-09-03 13:45:00,2018-09-03 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_875,2018-10-01 13:45:00,2018-10-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_876,2018-11-01 13:45:00,2018-11-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_877,2018-12-01 13:45:00,2018-12-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_878,2019-01-01 13:45:00,2019-01-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_879,2019-02-01 13:45:00,2019-02-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_880,2019-03-01 13:45:00,2019-03-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_881,2019-04-01 13:45:00,2019-04-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_882,2019-05-01 13:45:00,2019-05-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_883,2019-06-01 13:45:00,2019-06-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_884,2019-07-01 13:45:00,2019-07-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_885,2019-08-01 13:45:00,2019-08-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_886,2019-09-01 13:45:00,2019-09-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_887,2019-10-01 13:45:00,2019-10-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_888,2019-11-01 13:45:00,2019-11-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_889,2019-12-01 13:45:00,2019-12-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_890,2020-01-01 13:45:00,2020-01-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_891,2020-02-01 13:45:00,2020-02-01 14:45:00,VGN Developers Private Limited - NCD Rs. 400 Ccrores,Shailesh Kokate,reminder,FALSE
+calendar_event_892,2016-06-15 15:15:00,2016-06-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_893,2016-09-15 15:15:00,2016-09-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_894,2016-12-15 15:15:00,2016-12-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_895,2017-03-15 15:15:00,2017-03-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_896,2017-06-15 15:15:00,2017-06-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_897,2017-09-15 15:15:00,2017-09-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_898,2017-12-15 15:15:00,2017-12-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_899,2018-03-15 15:15:00,2018-03-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_900,2018-06-15 15:15:00,2018-06-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_901,2018-09-14 15:15:00,2018-09-14 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_902,2018-12-14 15:15:00,2018-12-14 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_903,2019-03-15 15:15:00,2019-03-15 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_904,2019-06-14 15:15:00,2019-06-14 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_905,2019-09-13 15:15:00,2019-09-13 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_906,2019-12-13 15:15:00,2019-12-13 16:15:00,VGN Developers Pvt Limited - NCD issue of Rs. 400 Crores,Shailesh Kokate,reminder,FALSE
+calendar_event_907,2015-08-03 07:00:00,2015-08-03 08:00:00,Visit to Boisar Execution on 03 August 2015 for M/S Bajaj Health Care Pvt Limited ,Shailesh Kokate,meeting,FALSE
+calendar_event_908,2014-12-20 10:00:00,2014-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_909,2015-12-20 10:00:00,2015-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_910,2016-12-20 10:00:00,2016-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_911,2017-12-20 10:00:00,2017-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_912,2018-12-20 10:00:00,2018-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_913,2019-12-20 10:00:00,2019-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_914,2020-12-20 10:00:00,2020-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_915,2021-10-15 10:00:00,2021-10-15 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_916,2021-12-20 10:00:00,2021-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE
+calendar_event_917,2022-12-20 10:00:00,2022-12-20 11:00:00,Misc,Shailesh Kokate,reminder,FALSE

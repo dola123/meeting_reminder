@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+        <!-- Calendar Events Form View -->
+
+    <record model="ir.ui.view" id="view_holiday_master_form">
+        <field name="name">Master Holiday - Event Form</field>
+        <field name="model">holiday.master</field>
+        
+        <field name="arch" type="xml">
+            <form string="Holiday">
+                <sheet>
+                    <div class="oe_title">
+                        <div class="oe_edit_only">
+                            <label for="name"/>
+                        </div>
+                        <h1>
+                            <field name="name"/>
+                        </h1>
+                        <group name="dates" col="4" colspan="4">
+                            <group col="2" colspan="2">
+                                <field name="start_date"/>
+                                <field name="stop_date"/>
+                            </group>
+                            <group string="Notified Users for the Holiday" col="2" colspan="2">
+                             <field name="notified_users" colspan="4" readonly="1" nolabel="1">
+                                 <tree>
+                                     <field name="partner_id"/>
+                                     <field name="email"/>
+                                 </tree>
+                             </field>
+                        </group>
+                        </group>
+                    </div>
+                    
+                </sheet>
+            </form>
+        </field>
+    </record>
+    
+        <!-- CRM Meeting Tree View  -->
+
+        <record model="ir.ui.view" id="view_holiday_master_tree">
+            <field name="name">Holiday Master</field>
+            <field name="model">holiday.master</field>
+            <field name="arch" type="xml">
+                <tree string="Holiday Master">
+                    <field name="name" string="Holiday"/>
+                    <field name="start_date" string="Date"/>
+                    <field name="stop_date"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="action_master_holiday_notify" model="ir.actions.act_window">
+            <field name="name">Holiday</field>
+            <field name="res_model">holiday.master</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+        </record>
+
+        <menuitem name="Holiday Master" id="mail_menu_calendar_holiday_master" parent="mail.mail_my_stuff" sequence="10" action="action_master_holiday_notify"/>
+ 
+    </data>
+</openerp>

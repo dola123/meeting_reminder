@@ -1,0 +1,70 @@
+<templates>
+    <t t-name="DisplayEvent">
+         <div style="right:0;">
+            <table class='tb1' style="width:100%;">
+                <tr>
+                    <td>
+                        <table class="oe_popup_list" style="width:100%;">
+                                <thead>
+                                    <tr class="openerp oe_list_header_columns">
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Name</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Date</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Week Name</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Responsible</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Location</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Show Time As</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Privacy</div>
+                                       </th>
+                                       <th style="width:5px;background:#eeeeee;">
+                                          <div>Duration</div>
+                                       </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr t-foreach="calendar_event_details" t-as="calendar_event">
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.name"><div><t t-esc="calendar_event.name"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.date">  <div><t t-esc="calendar_event.date"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.week_name"><div><t t-esc="calendar_event.week_name"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.user_name"><div><t t-esc="calendar_event.user_name"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                            <t t-if="calendar_event.location"> <div><t t-esc="calendar_event.location"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.show_as"> <div><t t-esc="calendar_event.show_as"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.class"><div><t t-esc="calendar_event.class"/></div></t>
+                                        </td>
+                                        <td style="vertical-align:middle;">
+                                             <t t-if="calendar_event.duration"><div><t t-esc="calendar_event.duration"/></div></t>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </t>
+</templates>

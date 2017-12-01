@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+<!--    inherit form view of holiday.master -->
+         <record model="ir.ui.view" id="view_holiday_master_form_inherit_meeting_reminder">
+            <field name="name">view.holiday.master.form.inherit.meeting.reminder</field>
+            <field name="model">holiday.master</field>
+            <field name="inherit_id" ref="view_holiday_master_form"/>
+            <field name="arch" type="xml">
+                <field name= "stop_date" position="after">
+                      <field name="color"/>
+                </field>
+            </field>
+        </record>
+
+<!--    inherit form view of res.partner -->
+        <record model="ir.ui.view" id="view_partner_form_inherit_meeting_reminder">
+            <field name="name">view.partner.form.inherit.meeting.reminder</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <field name= "function" position="before">
+                    <field name="team_id"/>
+                </field>
+            </field>
+        </record>
+
+<!--    inherit form view of calendar.event -->
+        <record model="ir.ui.view" id="view_calendar_event_form_inherit_meeting_reminder">
+            <field name="name">calendar.event.fom.inherit.meeting.reminder</field>
+            <field name="model">calendar.event</field>
+            <field name="inherit_id" ref="calendar.view_calendar_event_form"/>
+            <field name="arch" type="xml">
+                <label for='partner_ids' position="before">
+                    <group>
+                        <field name="event_type" required="1"/>
+                        <field name="team_id" class="oe_inline" widget="selection"
+                               on_change="team_id_change(team_id, partner_ids)"/>
+                        <field name="manager_id" class="oe_inline"
+                               on_change="manager_id_change(manager_id, partner_ids)"/>
+                    </group><br/>
+                </label>
+                <page string="Options" position="inside">
+                    <group>
+                      <field name="not_workday" required="1"/>
+                    </group>
+                </page>
+                <div attrs="{'invisible': [('rrule_type','!=','monthly')]}" position="replace">
+                    <div attrs="{'invisible': [('rrule_type','!=','monthly')]}">
+                        <field name="month_by"/>
+                        <field name="day"
+                            attrs="{'required': [('month_by','=','date'), ('rrule_type','=','monthly')],
+                                'invisible': [('month_by','in',('day','last_day'))]}"/>
+                        <field name="byday" string="The"
+                            attrs="{'required': [('month_by','=','day'), ('rrule_type','=','monthly')], 'invisible': [('month_by','in',('date','last_day'))]}"/>
+                        <field name="week_list" nolabel="1"
+                            attrs="{'required': [('month_by','=','day'), ('rrule_type','=','monthly')], 'invisible': [('month_by','in',('date','last_day'))]}"/>
+                    </div>
+                </div>
+            </field>
+        </record>
+
+<!--    Form view for user team -->
+        <record model="ir.ui.view" id="user_team_form_view">
+            <field name="name">user.team.form.view</field>
+            <field name="model">user.team</field>
+            <field name="arch" type="xml">
+                <form version="7.0">
+                    <sheet>
+                         <group col="4" colspan="4">
+                             <field name="name" required="1"/>
+                             <field name="manager_id"/>
+                             <separator string="Team Members" colspan="4"/>
+                             <field name="user_ids" colspan="4" nolabel="1"/>
+                         </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+<!--   User team action -->
+       <record id="action_user_team" model="ir.actions.act_window">
+            <field name="name">Team</field>
+            <field name="res_model">user.team</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree,form</field>
+       </record>
+
+       <menuitem id="menu_user_team" name="Team" parent="base.menu_base_config" action="action_user_team"/>
+    </data>
+</openerp>

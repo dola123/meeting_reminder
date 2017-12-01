@@ -1,0 +1,48 @@
+.oe_popup_list {
+  width: 100%;
+}
+.oe_popup_list table{
+  padding: 0;
+  border-collapse: collapse;
+}
+.oe_popup_list > thead{
+  border-bottom: 2px solid #cacaca;
+  background: #eeeeee;
+  vertical-align: top;
+}
+.oe_popup_list tbody{
+  cursor: pointer;
+}
+.oe_popup_list th{
+  padding: 3px 6px;
+  line-height: 18px;
+}
+.oe_popup_list > tbody > tr{
+  height: 27px;
+  border-top: 1px solid #dddddd;
+  vertical-align: middle;
+}
+.oe_popup_list > tbody > tr:nth-child(odd){
+  height: 27px;
+  border-top: 1px solid #dddddd;
+  background-color: #efeff8;
+}
+.oe_popup_list td{
+  line-height: 16px;
+  padding: 3px 6px;
+}
+.alert_dialog_button{
+    width: 110px; 
+    height: 40px;
+    text-align: center;
+    border-radius: 2px;
+    margin: 3px;
+    margin-top: 10px; 
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 1px solid #cacaca;
+    background: #e2e2e2;
+    color: #555555;
+}

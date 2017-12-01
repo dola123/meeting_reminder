@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<openerp>
+    <data>
+        <!-- demo automated actions when attendee don't get alarm -->
+        <record id="email_template_reminder_holiday" model="email.template">
+            <field name="name">Holiday Reminder</field>
+            <field name="model_id" ref="model_holiday_master"/>
+            <field name="auto_delete" eval="True"/>
+            <field name="email_from">admin@example.com</field>
+            <field name="subject">Reminder for Holiday ${object.name}</field>
+            <field name="body_html"><![CDATA[
+<p>Hello,</p>
+<p>This mail is to remind you that tomorrow is holiday for <span style="font-weight: bold;">${object.name}</span>.</p>
+
+<p>Here are some more details:</p>
+<ul>
+<li><span style="font-weight: bold;">Holiday for</span>: ${object.name}</li>
+<li><span style="font-weight: bold;">Holiday Start Date:</span>: ${object.start_date}</li>
+<li><span style="font-weight: bold;">Holiday End Date:</span>: ${object.stop_date}</li>
+</ul>
+
+<p>Kindly Note that.</p>
+<p> Enjoy the Holiday!</p>
+
+<p><span style="font-weight: bold;">Thank you</span>.</p>]]></field>
+        </record>
+        
+        <!-- demo automated actions when attendee don't get alarm -->
+        <record id="email_template_reminder_calendar_attendee" model="email.template">
+            <field name="name">Escalate the Meeting to Manager</field>
+            <field name="model_id" ref="calendar.model_calendar_attendee"/>
+            <field name="auto_delete" eval="True"/>
+            <field name="email_from">admin@example.com</field>
+            <field name="email_to">${(object.partner_id and object.partner_id.team_id and
+                                      object.partner_id.team_id.manager_id and
+                                      object.partner_id.team_id.manager_id.email)|safe}</field>
+            <field name="subject">Escalate the Meeting ${object.event_id.name}</field>
+            <field name="body_html"><![CDATA[
+<p>Hello,</p>
+<p>This mail is to inform you that the Meeting <span style="font-weight: bold;">${object.event_id.name}</span> is not attended by the user <span style="font-weight: bold;">${object.partner_id.name}</span>.</p>
+
+<p>Here are some more details:</p>
+<ul>
+<li><span style="font-weight: bold;">Meeting Name</span>: ${object.event_id.name}</li>
+<li><span style="font-weight: bold;">Meeting Start Time</span>: ${object.event_id.get_display_time_tz(tz=object.partner_id.tz)}</li>
+<li><span style="font-weight: bold;">Absent User</span>: ${object.partner_id.name}</li>
+<li><span style="font-weight: bold;">Email</span>: ${object.email or object.partner_id.email}</li>
+<li><span style="font-weight: bold;">Phone</span>: ${object.partner_id.phone or 'Not Provided'}</li>
+<li><span style="font-weight: bold;">Mobile</span>: ${object.partner_id.mobile or 'Not Provided'}</li>
+</ul>
+
+<p>As the manager of this user this meeting is escalated to you now. Kindly do needful.</p>
+
+<p><span style="font-weight: bold;">Thank you</span></p>]]></field>
+        </record>
+
+        <record id="action_email_reminder_calendar_attendee" model="ir.actions.server">
+            <field name="name">Reminder to User</field>
+            <field name="model_id" ref="calendar.model_calendar_attendee"/>
+            <field name="condition">[('state', '=', 'needsAction')]</field>
+            <field name="type">ir.actions.server</field>
+            <field name="state">email</field>
+            <field name="template_id" ref="email_template_reminder_calendar_attendee"/>
+        </record>
+
+        <record id="action_escalate_to_manager" model="ir.actions.server">
+            <field name="name">Escalate to manager</field>
+            <field name="model_id" ref="calendar.model_calendar_event"/>
+            <field name="type">ir.actions.server</field>
+            <field name="state">code</field>
+            <field name="code">
+attendees = [attendee.id for attendee in object.attendee_ids]
+for attendee in object.attendee_ids:
+    if attendee.state == 'needsAction' and attendee.partner_id and attendee.partner_id.team_id and attendee.partner_id.team_id.manager_id.id not in attendees:
+        template_id = self.pool.get('ir.model.data').get_object(cr, uid, 'meeting_reminder', 'email_template_reminder_calendar_attendee')
+        self.pool.get('email.template').send_mail(cr, uid, template_id.id, attendee.id, force_send=True)
+        attendee.write({'partner_id': attendee.partner_id.team_id.manager_id.id, 'email': attendee.partner_id.team_id.manager_id.email, 'state': 'accepted'})
+            </field>
+        </record>
+
+ 
+    </data>
+</openerp>

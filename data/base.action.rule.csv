@@ -1,0 +1,2 @@
+id,active,trg_date_range,trg_date_range_type,model,model_id/id,name,sequence,server_action_ids/id,trg_date_id/id,kind
+base_action_rule_meeting_escalation,True,-2,Hours,calendar.event,calendar.model_calendar_event,Set Auto Reminder and escalate on event which are not read by user.,1,meeting_reminder.action_escalate_to_manager,calendar.field_calendar_event_start,on_time

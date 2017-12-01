@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_event_user_team_user,user.team.user,model_user_team,group_event_user,1,0,0,0
+access_event_user_team_manager,event.type manager,model_user_team,group_event_manager,1,1,1,1
+access_event_holiday_master_user,holiday.master.user,model_holiday_master,group_event_user,1,0,0,0
+access_event_holiday_master_manager,holiday.master.manager,model_holiday_master,group_event_manager,1,1,1,1
+access_event_notify_holiday,notify.holiday.global,model_notify_holiday,,1,0,0,0
